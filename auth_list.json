@@ -7,8 +7,8 @@
     "expires_at": "2026-12-31T23:59:59Z",
     "plan": "1m"
   },
-  "9b21cf44a0e8d382": {
-    "expires_at": "2026-08-10T12:00:00Z",
-    "plan": "7d"
+  "8728200516": {
+    "expires_at": "9999-08-10T12:00:00Z",
+    "plan": "unlimited"
   }
 }
