@@ -10,5 +10,9 @@
   "8728200516": {
     "expires_at": "9999-08-10T12:00:00Z",
     "plan": "unlimited"
+  },
+  "9e1aed8f6f2c9a0b":{
+    "expires_at": "2026-12-31T23:59:59Z",
+    "plan": "6Month"
   }
 }
