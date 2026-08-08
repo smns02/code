@@ -4,8 +4,8 @@
     "plan": "unlimited"
   },
   "7181ec53c7b719dd": {
-    "expires_at": "2026-12-31T23:59:59Z",
-    "plan": "1m"
+    "expires_at": "9999-12-31T23:59:59Z",
+    "plan": "Unlimited"
   },
   "8728200516": {
     "expires_at": "9999-08-10T12:00:00Z",
@@ -14,5 +14,9 @@
   "9e1aed8f6f2c9a0b":{
     "expires_at": "2026-12-31T23:59:59Z",
     "plan": "6Month"
+  },
+  "5e4bd5afd84210bf":{
+    "expires_at": "9999-12-12T23:59:59Z",
+    "plan": "Unlimited"
   }
 }
